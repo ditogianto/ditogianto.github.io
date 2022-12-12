@@ -4,4 +4,4 @@ deployment:
     - export DEPLOYPATH=/home/yquqnkdm/public_html/
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp -R images $DEPLOYPATH
-    - /bin/cp -R asset $DEPLOYPATH
+    - /bin/cp -R assets $DEPLOYPATH
