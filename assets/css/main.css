@@ -2236,6 +2236,7 @@ input, select, textarea {
 
 		  #preloader {
 			background-color: #1c271d;
+			text-align: center;
 			bottom: 0;
 			left: 0;
 			position: fixed;
@@ -2259,10 +2260,6 @@ input, select, textarea {
 			-moz-transform: translate(-50%,-50%);
 			-o-transform: translate(-50%,-50%);
 			}
-
-			#status img {
-			}
-
 
 		.fa {
 			padding-top: 20px;
