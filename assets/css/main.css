@@ -2198,19 +2198,26 @@ input, select, textarea {
 			text-decoration: none;
 			display: inline-block;
 			font-size: 16px;
-			margin: 4px 2px;
+			margin: 5px 5px;
 			cursor: pointer;
 		}
 		
 		.button1 {background-color: rgb(24, 207, 107);} /* Green */
 
 		/* Tambahan */
+
+		.resume {
+			padding-top: 15px;
+			padding-bottom: 15px;
+		}
+
 		h2 {
 			/* font-family: 'Staatliches', cursive; */
 			text-align: center; 
 			color: rgb(0, 0, 0);
 			background-color: rgb(24, 207, 107);
-			padding: 5px;
+			padding-top: 15px;
+			padding-bottom: 15px;
 		}
 
 		.iframe-container{
